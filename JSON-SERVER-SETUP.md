@@ -29,8 +29,6 @@ npm init -y
 ```bash
 npm install json-server --save-exact
 ```
-Instalar aquesta versio
-npm install json-server@0.17.3
 
 
 ### 3. Create the `index.js` File
@@ -158,6 +156,9 @@ Render will automatically assign a port and expose the API at a URL like this:
 
 ```
 https://11_client-side_final-project_backend.onrender.com/tasks
+
+
+https://one1-client-side-final-project-backend-8zfh.onrender.com
 ```
 
 ## 🧭 Final Notes
