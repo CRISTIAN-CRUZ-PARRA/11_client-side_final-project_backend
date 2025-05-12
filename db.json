@@ -1,14 +1,7 @@
 {
-  "tasks": [
-    {
-      "id": 2,
-      "title": "Complete the client-side project",
-      "completed": true
-    },
-    {
-      "title": "Nueva tarea",
-      "completed": false,
-      "id": 3
-    }
-  ]
+  "id": 2,
+  "title": "The Clockmaker's Paradox",
+  "author": "Eleanor W. Finch",
+  "year": 2021,
+  "status": "available"
 }
