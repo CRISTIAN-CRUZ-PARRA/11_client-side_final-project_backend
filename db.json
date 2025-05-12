@@ -1,7 +1,11 @@
 {
-  "id": 2,
-  "title": "The Clockmaker's Paradox",
-  "author": "Eleanor W. Finch",
-  "year": 2021,
-  "status": "available"
+  "books": [
+    {
+      "id": 1,
+      "title": "The Clockmaker's Paradox",
+      "author": "Eleanor W. Finch",
+      "year": 2021,
+      "status": "available"
+    }
+  ]
 }
